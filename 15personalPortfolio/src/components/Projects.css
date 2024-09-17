@@ -1,0 +1,30 @@
+.projects-section {
+  padding: 20px;
+  background-color: #f4e5e5;
+}
+
+.projects-grid {
+  display: flex;
+  justify-content: space-around;
+}
+
+.project-card {
+  width: 45%;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.project-card h3 {
+  margin-top: 0;
+}
+
+.project-card a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,10 @@
+.about-section {
+  padding: 40px;
+  background-color: #81e319;
+  text-align: center;
+}
+
+.about-section h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
